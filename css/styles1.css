@@ -1,0 +1,39 @@
+/* this controls how the bullet points in the resume page looks */
+.myimage{
+
+  padding-right: 30px;
+}
+.image{
+  border-radius: 100%;
+  width: 20%;
+}
+
+      hr
+      {
+
+        border-spacing: 2px;
+        border-width: 5px;
+        background: none;
+        border-style: dotted;
+        border-color: grey ;
+
+        border-top: 0;
+        width: 10%;
+      }
+      img
+      {
+        height:200px;
+      }
+      h3
+      {
+        padding-top: 20px;
+      }
+
+        body{
+        background-color: #EAF6F6;
+
+        }
+        p
+        {
+          display: inline;
+        }
